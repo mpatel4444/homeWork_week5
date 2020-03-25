@@ -1,7 +1,5 @@
 $(document).ready(function () {
-
   const test = false;
-
   const now = moment().format('MMMM Do YYYY');
 
   let nowHour24 = moment().format('H');
